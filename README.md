@@ -2,7 +2,7 @@
 ## A Coherence-Based Thought Model of the Heart–Brainstem–Cerebellar Axis and Cross-System Coupling
 
 **Operational Oscillatoric Institute (OOI)**
-[@CohoLabs on X](https://x.com/CohoLabs) · [GitHub: Oscie-Coherence](https://github.com/Oscie-Coherence)
+[@CohoLabs on X](https://x.com/CohoLabs)
 
 ---
 
