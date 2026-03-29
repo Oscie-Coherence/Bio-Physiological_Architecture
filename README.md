@@ -1,5 +1,5 @@
 # The Bio-Physiological Architecture of Human Connection:
-## A Coherence-Based Thought Model of the Heart–Brainstem–Cerebellar Axis and Cross-System Coupling
+## A Model of the Heart–Brainstem–Cerebellar Axis and Cross-System Coupling
 
 **Operational Oscillatoric Institute (OOI)**
 [@CohoLabs on X](https://x.com/CohoLabs)
