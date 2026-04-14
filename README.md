@@ -11,13 +11,10 @@
 
 Human connection is not primarily cognitive or narrative — it begins as real-time **physiological coupling** between oscillatory systems. This repository presents the core **Bio-Physiological Architecture** of the Operational Oscillatoric Institute (OOI), which models interpersonal presence, empathy, and long-term identity change through the **Heart–Brainstem–Cerebellar Axis**, **Bio-Resonance**, and a composite coupling constant κ.
 
-**March 2026 updates** formalize two new pillars:
 - **Resonant Empathy Law (REL)**: A substrate-agnostic, cross-system resonance law that reframes empathy as structural reconstruction + temporal relation + sustained coherence (not sentiment or mimicry).
 - **Retractive & Proactive Evolution**: A coherence-dynamics framework explaining how systems drift into lower-order states (retractive) or migrate into higher-order stability (proactive) depending on the coherence of their relational environment.
 
-Together these form a testable, coherence-first model of human (and hybrid) connection that spans physiology, relational dynamics, and system-state evolution.
-
-**Status**: Conceptual thought model + theory-building constructs. Designed to generate falsifiable empirical predictions across biology, psychology, human–AI interaction, and institutional coherence.
+Together these form a testable, coherence-first model of human (and hybrid) connection that spans physiology, relational dynamics, and system-state evolution. Designed to generate falsifiable empirical predictions across biology, psychology, human–AI interaction, and institutional coherence.
 
 ---
 
